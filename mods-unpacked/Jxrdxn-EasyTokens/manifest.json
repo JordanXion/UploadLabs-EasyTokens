@@ -1,0 +1,48 @@
+{
+	"dependencies": [],
+	"description": "Makes token collection easier: autocollect, configurable multiplier, disable despawning, mute token sounds",
+	"extra": {
+		"godot": {
+			"authors": [
+				"Jxrdxn"
+			],
+			"compatible_game_version": [
+				"2.2.9"
+			],
+			"compatible_mod_loader_version": [
+				"7.0.0"
+			],
+			"config_schema": {
+				"type": "object",
+				"properties": {
+					"auto_collect_tokens": {
+						"type": "boolean",
+						"default": false
+					},
+					"mute_token_sound": {
+						"type": "boolean",
+						"default": true
+					},
+					"disable_token_despawn": {
+						"type": "boolean",
+						"default": true
+					},
+					"token_value_multiplier": {
+						"type": "integer",
+						"default": 10
+					}
+				}
+			},
+			"description_rich": "",
+			"image": null,
+			"incompatibilities": [],
+			"load_before": [],
+			"optional_dependencies": [],
+			"tags": []
+		}
+	},
+	"name": "EasyTokens",
+	"namespace": "Jxrdxn",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/JordanXion/UploadLabs-EasyTokens"
+}
