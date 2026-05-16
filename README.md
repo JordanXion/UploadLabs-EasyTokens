@@ -1,3 +1,4 @@
+![Steam Workshop Downloads](https://img.shields.io/steam/downloads/3724349042?style=flat-square&logo=steam)
 # UploadLabs-EasyTokens
 Mod for Upload Labs game to make collecting tokens easier - auto collect, configurable multiplier, disable despawning, mute token sounds
 All settings are configurable so you can pick what you would like to use
